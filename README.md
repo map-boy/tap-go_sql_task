@@ -12,12 +12,13 @@
 **Revenue, route and passenger analysis for a cashless bus fare system in Kigali using SQL JOINs and window functions.**
 
 ## 2. Group Members
-| No. | Full name | Student ID | GitHub username |
+ | Student ID | 
 |---|---|---|---|
-| 1 | [Name] | [ID] | [username] |
-| 2 | [Name] | [ID] | [username] |
-| 3 | [Name] | [ID] | [username] |
-| 4 | [Name] | [ID] | [username] |
+| 1 | [202510787] | 
+| 2 | [202510585] |
+| 3 | [202510986] | 
+| 4 | [202510599] | 
+| 5 | [202511770] | 
 
 ## 3. Business Background
 Tap&Go is a cashless fare payment system for urban buses in Kigali, Rwanda. Passengers load money onto a prepaid card through mobile money (MTN MoMo, Airtel Money) or agents, then tap the card on a validator when boarding. Several bus operators run routes across the city, and every tap creates a transaction record. The system must track passengers, cards, top-ups, buses, routes, trips and operator earnings.
